@@ -1,0 +1,11 @@
+{
+  "name": "RT-JWT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/redmacdev1988/RT-JWT.git",
+  "author": "Ricky Tsao <Ricky_Tsao@emap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
