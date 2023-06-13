@@ -6,6 +6,6 @@
   "author": "Ricky Tsao <Ricky_Tsao@emap.com>",
   "license": "MIT",
   "dependencies": {
-    "crypto-js": "^3.1.9-1"
+    "crypto-js": "^3.2.1"
   }
 }
